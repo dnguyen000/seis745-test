@@ -1,0 +1,10 @@
+﻿cdc_case_earliest_dt ,cdc_report_dt,pos_spec_dt,onset_dt,current_status,sex,age_group,race_ethnicity_combined,hosp_yn,icu_yn,death_yn,medcond_yn
+1/15/21,1/16/21,,1/15/21,Probable Case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,Missing,Missing
+5/23/22,5/25/22,5/23/22,,Laboratory-confirmed case,Male,20 - 29 Years,"Asian, Non-Hispanic",Unknown,Unknown,Missing,Missing
+12/1/23,12/1/23,,,Laboratory-confirmed case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,Missing,Missing
+5/6/21,5/6/21,,,Probable Case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,Missing,Missing
+12/29/21,12/31/21,,12/29/21,Laboratory-confirmed case,Male,20 - 29 Years,"Asian, Non-Hispanic",No,Missing,Missing,Missing
+8/10/21,8/11/21,,8/10/21,Laboratory-confirmed case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,Missing,Missing
+8/13/22,8/13/22,,8/13/22,Probable Case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,Missing,Missing
+12/22/21,12/23/21,,12/22/21,Laboratory-confirmed case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,Missing,Missing
+12/28/21,1/8/22,12/28/21,,Probable Case,Male,20 - 29 Years,"Asian, Non-Hispanic",Missing,Missing,No,Missing

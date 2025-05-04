@@ -1,0 +1,8 @@
+﻿cdc_case_earliest_dt ,cdc_report_dt,pos_spec_dt,onset_dt,current_status,sex,age_group,race_ethnicity_combined,hosp_yn,icu_yn,death_yn,medcond_yn
+1/31/22,9/28/22,,,Laboratory-confirmed case,Male,60 - 69 Years,Unknown,Missing,Missing,Missing,Missing
+1/6/23,1/6/23,,,Laboratory-confirmed case,Male,60 - 69 Years,Unknown,Missing,Missing,Missing,Missing
+7/25/22,8/2/22,7/25/22,,Laboratory-confirmed case,Unknown,20 - 29 Years,"White, Non-Hispanic",Missing,Missing,Missing,Missing
+7/26/21,1/6/22,7/26/21,,Probable Case,Unknown,20 - 29 Years,"White, Non-Hispanic",Missing,Missing,Missing,Missing
+1/10/22,1/20/22,1/10/22,,Laboratory-confirmed case,Unknown,20 - 29 Years,"White, Non-Hispanic",Missing,Missing,No,Missing
+8/16/21,1/10/22,8/16/21,,Probable Case,Unknown,20 - 29 Years,"White, Non-Hispanic",Missing,Missing,Missing,Missing
+6/17/22,7/12/22,6/17/22,,Laboratory-confirmed case,Unknown,20 - 29 Years,"White, Non-Hispanic",Missing,Missing,Missing,Missing
